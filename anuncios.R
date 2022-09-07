@@ -226,3 +226,4 @@ write_xlsx(
   "/Users/antoniogarcia/Desktop/R/5. inversión/200. anuncios_comprobación.xlsx", # Ruta Toño
   col_names = T
 )
+l
